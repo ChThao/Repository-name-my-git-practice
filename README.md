@@ -2,3 +2,5 @@
 
 ## Mô tả dự án
 Đây là repository thực hành Git đầu tiên của tôi.
+
+### Update from clone lab
